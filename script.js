@@ -858,7 +858,7 @@ $("img").each(function() {
 }); 
 
 $('img').addClass("lazyload");
-// $('source').remove();
+$('source').remove();
 
 
 
